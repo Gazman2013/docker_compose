@@ -15,4 +15,8 @@
 14. git clone https://github.com/dockersamples/example-voting-app.git
 15. ls
 16. cd example-voting-app/
-
+17. nano docker-compose-vote.yaml
+18. nano docker-compose-result.yaml
+19. nano docker-compose-worker.yaml
+20. nano docker-compose-redis.yaml
+21. nano docker-compose-db.yaml
