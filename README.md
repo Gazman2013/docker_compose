@@ -19,4 +19,4 @@
 18. nano docker-compose-result.yaml
 19. nano docker-compose-worker.yaml
 20. nano docker-compose-redis.yaml
-21. nano docker-compose-db.yaml
+21. nano docker-compose-db.yaml дописать
