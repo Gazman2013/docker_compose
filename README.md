@@ -22,3 +22,5 @@
 21. nano docker-compose-db.yaml
 22. edit docker-compose-db.yml  docker-compose-redis.yml  docker-compose-result.yml  docker-compose-vote.yml  docker-compose-worker.yml
 23. docker-compose -f docker-compose-db.yml -f docker-compose-redis.yml -f docker-compose-result.yml -f docker-compose-vote.yml -f docker-compose-worker.yml up -d
+24. http://34.67.17.135:5001/
+25. 
