@@ -20,4 +20,5 @@
 19. nano docker-compose-worker.yaml
 20. nano docker-compose-redis.yaml
 21. nano docker-compose-db.yaml
-22. create app.py Dockerfile requirements.txt
+22. edit docker-compose-db.yml  docker-compose-redis.yml  docker-compose-result.yml  docker-compose-vote.yml  docker-compose-worker.yml
+23. docker-compose -f docker-compose-db.yml -f docker-compose-redis.yml -f docker-compose-result.yml -f docker-compose-vote.yml -f docker-compose-worker.yml up -d
